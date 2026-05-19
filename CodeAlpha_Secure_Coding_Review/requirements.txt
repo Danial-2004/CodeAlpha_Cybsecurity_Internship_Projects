@@ -1,0 +1,4 @@
+flask
+bandit
+werkzeug
+flask-wtf
