@@ -92,7 +92,7 @@ class PacketSnifferGUI:
         ttk.Label(header, text="Basic Network Sniffer", style="Header.TLabel").pack(anchor="w")
         ttk.Label(
             header,
-            text="Capture packets, inspect protocols, and export findings for your CodeAlpha cybersecurity task.",
+            text="Capture packets, inspect protocols, and export findings for CodeAlpha cybersecurity task.",
             style="SubHeader.TLabel",
         ).pack(anchor="w", pady=(2, 0))
 
